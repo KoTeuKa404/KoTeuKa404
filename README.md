@@ -7,7 +7,7 @@ I create **Python projects of any complexity** and **in any field** — from web
 - 🌐 **Django / DRF**
 - 💾 **PostgreSQL, MySQL**
 - 💻 **PyQt**
-- ⚙️ Also experienced with: Kivy, FastAPI, Buildozer,Celery, Redis, aiogram, FFMPeg, yt-dlp 
+- ⚙️ Also experienced with: Kivy, FastAPI, Buildozer,Celery, Redis, aiogram, FFmpeg, yt-dlp 
 
 ---
 
