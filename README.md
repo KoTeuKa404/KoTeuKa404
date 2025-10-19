@@ -25,7 +25,6 @@ I create **Python projects of any complexity** and **in any field** — from web
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoTeuKa404&show_icons=true&theme=tokyonight" alt="GitHub stats"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoTeuKa404&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
 
 ---
