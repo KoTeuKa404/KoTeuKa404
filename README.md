@@ -17,7 +17,6 @@ I create **Python projects of any complexity** and **in any field** — from web
 |----------|--------------|------|
 | **Django WebApp** | REST API built with Django + DRF and PostgreSQL backend | 🔗 [View](https://github.com/KoTeuKa404/django) |
 | **PyMusic** | Android music player app with background YouTube streaming | 🎧 [View](https://github.com/KoTeuKa404/pymusic) |
-| **FastAPI Service** | Lightweight API service using FastAPI + MySQL | ⚡ [View](https://github.com/KoTeuKa404/fast-api) |
 | **Spotify2mpfile** | Tool for converting Spotify playlists to MP3 files | 🎵 [View](https://github.com/KoTeuKa404/Spotify2mpfile) |
 
 ---
